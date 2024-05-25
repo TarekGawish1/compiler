@@ -1,0 +1,11 @@
+int x = 10;
+float y;
+int z = 5;
+if (x > 0) {
+    y = x * 2.0;
+} else {
+    y = x / 6 + z;
+}
+float q = 2.4;
+
+
